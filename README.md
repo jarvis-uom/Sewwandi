@@ -2,7 +2,9 @@
 
 Personal workspace of Sewwandi for the JARVIS IS4990 project: experiments, notebooks, test scripts and learning.
 
-**The real project lives in the main repo, [jarvis-uom/is4990-project](https://github.com/jarvis-uom/is4990-project).** Tasks, weekly updates, decisions and the final code all go there.
+**Current focus: Paddy Land Watch.** The proposal, brief, reading notes and papers are in [paddy-land-watch/](paddy-land-watch/).
+
+**The real project lives in the main repo, [jarvis-uom/IS4990-project](https://github.com/jarvis-uom/IS4990-project).** Tasks, weekly updates, decisions and the final code all go there.
 
 ## Rules
 
