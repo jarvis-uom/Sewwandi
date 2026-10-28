@@ -8,6 +8,8 @@ Everything needed to start on this topic.
 | [brief-paddy-land-watch.pdf](brief-paddy-land-watch.pdf) | The one-page brief |
 | [reading-notes-paddy-land-watch.pdf](reading-notes-paddy-land-watch.pdf) | The 10 related papers explained in simple words. Short on time? Read papers 4, 6 and 1. |
 | [papers/](papers/) | 8 of the 10 papers. The numbers in the file names match the reading notes. |
+| [presentation/paddy-land-watch-proposal-talk.pdf](presentation/paddy-land-watch-proposal-talk.pdf) | The proposal talk, 12 slides (28 Oct 2026): the problem, past research, users, the four land states, one slide per member (data analysis and technical work), the system, data, targets and links |
+| [presentation/paddy-land-watch-proposal-talk.pptx](presentation/paddy-land-watch-proposal-talk.pptx) | The same talk as PowerPoint, to edit (no speaker notes) |
 
 ## The 10 papers
 
